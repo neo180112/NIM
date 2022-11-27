@@ -1,1 +1,1 @@
-# NIM
+# NAME YOUR FILE "main.nim"
